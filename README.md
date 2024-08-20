@@ -14,7 +14,7 @@ My career transition into the tech world has led me to develop a passion for cyb
 
 | Skill                                         | Associated Project          |
 |-----------------------------------------------|-----------------------------|
-| Foundations of Cybersecurity                  | <a href="https://coursera.org/verify/DFRVP9QJVP8B">Certificate</a>|
+| Cybersecurity basics                          | <a href="https://coursera.org/verify/DFRVP9QJVP8B">Certificate</a>|
 | Risk Management                               | <a href="https://coursera.org/verify/TPDQGKFLQSAC">Certificate</a>|
 | Network Security                              | <a href="https://coursera.org/verify/AC8XDU596WV7">Certificate</a>|
 | Linux and SQL                                 | <a href="https://coursera.org/verify/3HT7W8MZAQPG">Certificate</a>|
