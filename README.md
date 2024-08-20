@@ -1,8 +1,18 @@
 ## Hello, I'm Oluwabukola
 <a href="https://linkedin.com/in/oluwabukola-olasehinde-christiana-4b32a9244"><img src="https://img.shields.io/badge/LinkedIn--blue--?logoColor=blue&labelColor=blue&color=blue" /></a>
 
+## Introduction
 
-**bukola-olasehinde/bukola-olasehinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a cybersecurity analyst with profound interest in security and a dedicated interest in solving complex problems.
+
+## Objective
+
+My career transition into the tech world has led me to develop a passion for cybersecurity, I am eager to practice my both my core and transferrable skills specifically aiming to join the penetration testing and ethical hacking team as a Junior Pen tester.
+
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project]
+
+
 
 Here are some ideas to get you started:
 
