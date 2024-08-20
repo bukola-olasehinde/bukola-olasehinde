@@ -12,20 +12,20 @@ My career transition into the tech world has led me to develop a passion for cyb
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project]
 
-| Skill                                         | Associated Project          |
-|-----------------------------------------------|-----------------------------|
-| Cybersecurity basics                          | <a href="https://coursera.org/verify/DFRVP9QJVP8B">Certificate</a>|
-| Risk Management                               | <a href="https://coursera.org/verify/TPDQGKFLQSAC">Certificate</a>|
-| Network Security                              | <a href="https://coursera.org/verify/AC8XDU596WV7">Certificate</a>|
-| Linux and SQL                                 | <a href="https://coursera.org/verify/3HT7W8MZAQPG">Certificate</a>|
-| Assets, Threats, and Vulnerabilities          | <a href="https://coursera.org/verify/8FTXFCMSXSH4">Certificate</a>|
-| Incident Response                             | <a href="https://coursera.org/verify/9RG5E9D4HJ64">Certificate</a>|
-| Python                                        | <a href="https://coursera.org/verify/JDKSG7GUHGHD">Certificate</a>|
-| Security Mindset                              | <a href="https://coursera.org/verify/JDKSG7GUHGHD">Certificate</a>|
+| Skill                                         |
+|-----------------------------------------------|
+| Cybersecurity basics                          |
+| Risk Management                               | 
+| Network Security                              |
+| Linux and SQL                                 |
+| Assets, Threats, and Vulnerabilities          |
+| Incident Response                             |
+| Python                                        |
+| Security Mindset                              |
 
 
 ## Tools
-[Provide tools and break them down into categories. Use chatGPT to help create the link]
+
 <div>
   <img src="https://img.shields.io/badge/Wireshark--blue?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=blue&color=blue" />
 </div>
@@ -39,7 +39,6 @@ My career transition into the tech world has led me to develop a passion for cyb
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link]
 
 <a href="https://1drv.ms/b/c/136a2a9eccd85e53/EYRJ_l3roCFNk78CKc_zBMgBbQoaoE9LuKs3wYmqHfA2Qg?e=tdNE1T">
     <img src="https://img.shields.io/badge/GOOGLE--icon?style=social&logo=Google%20icon&logoColor=white&labelColor=white&color=white">
