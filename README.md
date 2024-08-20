@@ -7,7 +7,7 @@ I am a cybersecurity analyst with profound interest in security and a dedicated 
 
 ## Objective
 
-My career transition into the tech world has led me to develop a passion for cybersecurity, I am eager to practice my both my core and transferrable skills specifically aiming to join the penetration testing and ethical hacking team as a Junior Pen tester.
+My career transition into the tech world has led me to develop a passion for cybersecurity, I am eager to practice my core and transferrable skills specifically aiming to join the penetration testing and ethical hacking team as a Junior Pen tester.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project]
