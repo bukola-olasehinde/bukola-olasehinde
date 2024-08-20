@@ -35,7 +35,7 @@ My career transition into the tech world has led me to develop a passion for cyb
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link]
 
-<a href="https://drive.google.com/file/d/your-file-id/view?usp=sharing">
+<a href="https://1drv.ms/b/c/136a2a9eccd85e53/EYRJ_l3roCFNk78CKc_zBMgBbQoaoE9LuKs3wYmqHfA2Qg?e=wSNKD1">
     <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-official%20badge%20of%20completion-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate Badge">
 </a>
 
