@@ -12,6 +12,10 @@ My career transition into the tech world has led me to develop a passion for cyb
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project]
 
+| Skill                                         | Associated Project          |
+|-----------------------------------------------|-----------------------------|
+| Foundations of Cybersecurity                  | <a href="https://file:///C:/Users/USER%20PCX/OneDrive/Documents/GOOGLE%20CAREER%20CERTIFICATE%201.pdf">Certificate</a>|
+
 
 
 Here are some ideas to get you started:
