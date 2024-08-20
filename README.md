@@ -1,5 +1,5 @@
 ## Hello, I'm Oluwabukola
-<a href="https://linkedin.com/in/oluwabukola-olasehinde-christiana-4b32a9244"><img src="https://img.shields.io/badge/LinkedIn--blue--?logoColor=blue&labelColor=blue&color=blue" /></a>
+<a href="https://linkedin.com/in/oluwabukola-olasehinde-christiana-4b32a9244"><img src="https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=blue" alt="LinkedIn Badge">
 
 ## Introduction
 
@@ -7,7 +7,7 @@ I am a cybersecurity analyst with profound interest in security and a dedication
 
 ## Objective
 
-My career transition into the tech world has led me to develop a passion for cybersecurity, I am eager to practice my core and transferrable skills specifically aiming to join the penetration testing and ethical hacking team as a Junior Pen tester.
+My career transition into the tech world has led me to develop a passion for cybersecurity, I am eager to practice my core and transferrable skills specifically aiming to be a professional pentester
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project]
@@ -24,15 +24,25 @@ My career transition into the tech world has led me to develop a passion for cyb
 | Security Mindset                              | <a href="https://coursera.org/verify/JDKSG7GUHGHD">Certificate</a>|
 
 
+## Tools
+[Provide tools and break them down into categories. Use chatGPT to help create the link]
+<div>
+  <img src="https://img.shields.io/badge/Wireshark--blue?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=blue&color=blue" />
+    <img src="https://img.shields.io/badge/Suricata--red?style=for-the-badge&logo=suricata&logoColor=white&labelColor=red&color=red" alt="Suricata Badge" />
+    <img src="https://img.shields.io/badge/Splunk--blue?style=for-the-badge&logo=splunk&logoColor=white&labelColor=blue&color=blue" alt="Splunk Badge" />
+</div>
 
-Here are some ideas to get you started:
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://drive.google.com/file/d/your-file-id/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-official%20badge%20of%20completion-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate Badge">
+</a>
+
+
+
+
+
+
+
 -->
