@@ -1,4 +1,4 @@
-## Haello, I'm Oluwabukola
+## Hello, I'm Oluwabukola
 <a href="www.linkedin.com/in/oluwabukola-olasehinde-christiana-4b32a9244"><img src="https://img.shields.io/badge/LinkedIn--blue--?logoColor=blue&labelColor=blue&color=blue" /></a>
 
 
