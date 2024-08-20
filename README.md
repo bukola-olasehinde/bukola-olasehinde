@@ -1,6 +1,7 @@
-## Hi there 👋
+## Haello, I'm Oluwabukola
+<a href="www.linkedin.com/in/oluwabukola-olasehinde-christiana-4b32a9244"><img src="https://img.shields.io/badge/LinkedIn--blue--?logoColor=blue&labelColor=blue&color=blue" /></a>
 
-<!--
+
 **bukola-olasehinde/bukola-olasehinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
