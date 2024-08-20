@@ -28,16 +28,26 @@ My career transition into the tech world has led me to develop a passion for cyb
 [Provide tools and break them down into categories. Use chatGPT to help create the link]
 <div>
   <img src="https://img.shields.io/badge/Wireshark--blue?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=blue&color=blue" />
+</div>
+
+<div>
     <img src="https://img.shields.io/badge/Suricata--red?style=for-the-badge&logo=suricata&logoColor=white&labelColor=red&color=red" alt="Suricata Badge" />
+</div>
+
+<div>
     <img src="https://img.shields.io/badge/Splunk--blue?style=for-the-badge&logo=splunk&logoColor=white&labelColor=blue&color=blue" alt="Splunk Badge" />
 </div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link]
 
-<a href="https://1drv.ms/b/c/136a2a9eccd85e53/EYRJ_l3roCFNk78CKc_zBMgBbQoaoE9LuKs3wYmqHfA2Qg?e=wSNKD1">
-    <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-official%20badge%20of%20completion-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate Badge">
-</a>
+<a href="https://1drv.ms/b/c/136a2a9eccd85e53/EYRJ_l3roCFNk78CKc_zBMgBbQoaoE9LuKs3wYmqHfA2Qg?e=tdNE1T">
+    <img src="https://img.shields.io/badge/GOOGLE--icon?style=social&logo=Google%20icon&logoColor=white&labelColor=white&color=white">
+
+
+  
+<a href="https://1drv.ms/b/c/136a2a9eccd85e53/EU2rzZmbvxpPk4dU8LFW5WsBgrTGzw3Jy8ob4VfXg8gXTw?e=34V6eP">
+    <img src="https://img.shields.io/badge/ISC2--badge?style=for-the-badge&logoColor=green&labelColor=white">
 
 
 
