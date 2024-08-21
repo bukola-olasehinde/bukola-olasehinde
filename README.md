@@ -3,25 +3,21 @@
 
 ## Introduction
 
-I am a cybersecurity analyst with profound interest in security and a dedication to solving complex problems.
+I am a cybersecurity analyst with profound interest in security and a dedication to solving complex security problems.
 
 ## Objective
 
-My career transition into the tech world has led me to develop a passion for cybersecurity, I am eager to practice my core and transferrable skills specifically aiming to be a professional pentester
+My career transition into the tech world has led me to develop a passion for cybersecurity, I am eager to practice my core and transferrable skills specifically aiming to be a professional pentester.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project]
 
-| Skill                                         |
-|-----------------------------------------------|
-| Cybersecurity basics                          |
-| Risk Management                               | 
-| Network Security                              |
-| Linux and SQL                                 |
-| Assets, Threats, and Vulnerabilities          |
-| Incident Response                             |
-| Python                                        |
-| Security Mindset                              |
+| Core Skills                                   | Transferable Skills
+|-----------------------------------------------| --------------------------------
+| Python                                        | Communication                  |
+| Linux                                         | Problem solving                |
+| SQL                                           | Detail oriented                |
+| NIST CSF                                      | Documentation                  |
+| Audit and Risk Assesment                      | Security mindset
 
 
 ## Tools
@@ -46,10 +42,12 @@ My career transition into the tech world has led me to develop a passion for cyb
 
   
 <a href="https://1drv.ms/b/c/136a2a9eccd85e53/EU2rzZmbvxpPk4dU8LFW5WsBgrTGzw3Jy8ob4VfXg8gXTw?e=34V6eP">
-    <img src="https://img.shields.io/badge/ISC2--badge?style=for-the-badge&logoColor=green&labelColor=white">
+    <img src="https://img.shields.io/badge/isc2%20CC--badge?style=for-the-badge&logo=Google%20icon&logoColor=green&labelColor=white&color=green">
 
-
-
+## Projects
+- Incidence Response Using NIST CSF
+- File Permission management using Linux
+- Security Audit and Risk Assessment
 
 
 
