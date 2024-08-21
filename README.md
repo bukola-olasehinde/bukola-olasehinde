@@ -45,6 +45,7 @@ My career transition into the tech world has led me to develop a passion for cyb
     <img src="https://img.shields.io/badge/isc2%20CC--badge?style=for-the-badge&logo=Google%20icon&logoColor=green&labelColor=white&color=green">
 
 ## Projects
+- <a href="https://github.com/bukola-olasehinde/Python-Automation">Python Algorithm
 - Incidence Response Using NIST CSF
 - File Permission management using Linux
 - Security Audit and Risk Assessment
