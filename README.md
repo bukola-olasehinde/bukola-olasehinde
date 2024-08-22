@@ -7,7 +7,7 @@ A cybersecurity analyst keenly interested in security and a dedicated to solving
 
 ## Objective
 
-My career transition into the tech world has led me to develop a passion for cybersecurity, I am eager to practice my core and transferrable skills specifically aiming to be a professional pentester.
+I am eager to practice my core and transferrable skills specifically aiming to be a professional pentester.
 
 ## Skills
 
