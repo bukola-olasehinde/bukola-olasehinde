@@ -3,7 +3,7 @@
 
 ## Introduction
 
-I am a cybersecurity analyst with profound interest in security and a dedication to solving complex security problems.
+A cybersecurity analyst keenly interested in security and a dedicated to solving complex security problems.
 
 ## Objective
 
