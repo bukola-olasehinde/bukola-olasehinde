@@ -47,9 +47,7 @@ I am eager to practice my core and transferrable skills specifically aiming to b
 ## Projects
 - <a href="https://github.com/bukola-olasehinde/Python-Automation">Python Algorithm
 - <a href="https://github.com/bukola-olasehinde/SQL-queries">SQL Queries using Filters
-- Incidence Response Using NIST CSF
-- File Permission management using Linux
-- Security Audit and Risk Assessment
+- <a href="https://github.com/bukola-olasehinde/Incidence-Response-Using-NIST-CSF"> Incidence response using NIST CSF
 
 
 
