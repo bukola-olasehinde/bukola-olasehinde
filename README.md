@@ -60,6 +60,8 @@
 - <a href="https://github.com/bukola-olasehinde/Python-Automation">Python Algorithm
 - <a href="https://github.com/bukola-olasehinde/SQL-queries">SQL Queries using Filters
 - <a href="https://github.com/bukola-olasehinde/Incidence-Response-Using-NIST-CSF"> Incidence response using NIST CSF
+- <a href="https://github.com/bukola-olasehinde/Security-Audit-and-Risk-Asessment"> Security Audit and Risk Assesssment
+- <a href="
 
 
 
